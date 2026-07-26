@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+- chore(deps): Go 1.26.5 and nox SDK v1.17.0 (#15)
+- chore(security): nox remediation (deps + actions) (#14)
+- ci: add nox-remediate caller (deps + action-pin remediation)
+- build(deps): bump sigstore/cosign-installer from 3.10.1 to 4.1.2 (#6)
+- ci: point the registry notice at where entries actually go (#13)
+- ci: add nox self-scan and changed-files PR gate (#12)
+
+
 ## [Unreleased]
 
 ## [0.2.0] - 2026-07-18
