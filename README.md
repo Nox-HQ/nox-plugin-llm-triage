@@ -1,5 +1,7 @@
 # nox-plugin-llm-triage
 
+[![nox security grade](.github/nox-badge.svg)](https://github.com/nox-hq/nox)
+
 Optional **LLM second-opinion triage** for nox findings.
 
 nox's core is deliberately deterministic and offline — no model, zero egress.
